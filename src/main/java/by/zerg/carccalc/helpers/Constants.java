@@ -1,4 +1,4 @@
-package by.zerg.carcassonne.tilescalculator.helpers;
+package by.zerg.carccalc.helpers;
 
 public class Constants {
 	public static final String ROOT_PATH = "./";

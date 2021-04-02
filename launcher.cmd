@@ -1,1 +1,1 @@
-start javaw -cp bin by.zerg.carcassonne.tilescalculator.gui.MainFrame
+start javaw -cp "target/*" by.zerg.carccalc.gui.MainFrame
