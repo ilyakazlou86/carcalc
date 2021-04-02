@@ -1,0 +1,1 @@
+start javaw -cp bin by.zerg.carcassonne.tilescalculator.gui.MainFrame
